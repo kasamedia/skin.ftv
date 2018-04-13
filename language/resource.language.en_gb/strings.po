@@ -1058,3 +1058,7 @@ msgstr ""
 msgctxt "#31255"
 msgid "Reset Home Menu"
 msgstr ""
+
+msgctxt "#31256"
+msgid "Special Features"
+msgstr ""
